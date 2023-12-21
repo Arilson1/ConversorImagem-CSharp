@@ -1,0 +1,16 @@
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\ConvertImg.Form1.resources
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\ConvertImg.csproj.GenerateResource.cache
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\ConvertImg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\ConvertImg.AssemblyInfoInputs.cache
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\ConvertImg.AssemblyInfo.cs
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\ConvertImg.csproj.CoreCompileInputs.cache
+C:\Projetos\ConvertImg\ConvertImg\bin\Debug\net8.0-windows\ConvertImg.exe
+C:\Projetos\ConvertImg\ConvertImg\bin\Debug\net8.0-windows\ConvertImg.deps.json
+C:\Projetos\ConvertImg\ConvertImg\bin\Debug\net8.0-windows\ConvertImg.runtimeconfig.json
+C:\Projetos\ConvertImg\ConvertImg\bin\Debug\net8.0-windows\ConvertImg.dll
+C:\Projetos\ConvertImg\ConvertImg\bin\Debug\net8.0-windows\ConvertImg.pdb
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\ConvertImg.dll
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\refint\ConvertImg.dll
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\ConvertImg.pdb
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\ConvertImg.genruntimeconfig.cache
+C:\Projetos\ConvertImg\ConvertImg\obj\Debug\net8.0-windows\ref\ConvertImg.dll
